@@ -33,9 +33,9 @@ This password generator has the following features:
 - Generates a random password based on user's input
 - Provides a user-friendly interface
 
-## Screenshots
+## Screenshot
 
-Here are some screenshots of the password generator in action:
+Here is a screenshot of the password generator in action:
 
 ![P-4](https://user-images.githubusercontent.com/101975404/221564248-1bbf57a1-ecfc-4f84-a067-099c683bb70d.png)
 
